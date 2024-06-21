@@ -1,4 +1,4 @@
-package com.example;
+package com.example.metodosEspeciais;
 public class Conta {
     private static String tipoDeConta = null;
     private String nomeCliente; 
