@@ -1,6 +1,6 @@
 package com.example.relacionamento;
 
-public class Lutador {
+public final class Lutador {
 
    private String nome;
     private String nacionalidade; 
